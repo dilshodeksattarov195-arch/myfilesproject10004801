@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenvetch",
+        "uuid": 8699412,
+        "checksum": "6jkw8a"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
